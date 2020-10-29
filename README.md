@@ -1,5 +1,5 @@
-# Gestão de Patrimônio
+# Wealth Management
 
-Teve como proposito permitir ao usuario a gestão de todos os patrimonios da instituição através do código do bem patrimonial.
+Its purpose was to allow the user to manage all of the institution's assets through the asset code.
 
-Aplicação desenvolvida em JAVA para disciplina de Programação Orientada a Objetos do curso de Sistemas de Informação da Universidade Federal de Mato Grosso do Sul.
+An application developed in JAVA for Object Oriented Programming in the Information Systems Course at the Federal University of Mato Grosso do Sul.
